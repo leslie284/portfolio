@@ -40,7 +40,7 @@ let resumeData = {
       "specialization": "Web Developer",
       "YearOfEntrance": "October 2017 -",
       "YearOfLeaving": "May 2018",
-      "Achievements": "I have assisted to the Medium-scale project with Front-End. Especially, I have built Landing page and integrated some APIs. It was React.Js Project. Except for this, I had gotten involved in a few projects at the time."
+      "Achievements": "I have assisted to develop some Medium-scale projects with Front-End. Especially, I have built Landing page and integrated some APIs. They were React.Js Projects. Except for this, I had gotten involved in a few projects at the time."
     }
   ],
   "skillsDescription": "My main skills are as following.",
