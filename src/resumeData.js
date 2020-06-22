@@ -8,7 +8,7 @@ let resumeData = {
   "socialLinks": [
     // {
     //   "name": "linkedin",
-    //   "url": "https://www.linkedin.com/in/leslie-67ba08121/",
+    //   "url": "https://www.linkedin.com/in/",
     //   "className": "fa fa-linkedin"
     // },
     {
