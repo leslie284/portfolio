@@ -2,8 +2,13 @@
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
+<<<<<<< HEAD
 ![Preview](./images/preview.png)
 
+=======
+![Preview](./images/)
+![Preview Portfolio](https://github.com/leslie284/portfolio/blob/master/preview.jpg?raw=true)
+>>>>>>> 992a8b2da1a908f40ae068532ce92f00643f523f
 ## How to use
 1. Clone/Download the repo.
 2. Run  ``` npm install ```.
