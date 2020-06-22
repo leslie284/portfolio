@@ -3,7 +3,7 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 
 ## Preview
 ![Preview](./images/)
-
+![Preview Portfolio](https://github.com/leslie284/portfolio/blob/master/preview.jpg?raw=true)
 ## How to use
 1. Clone/Download the repo.
 2. Run  ``` npm install ```.
