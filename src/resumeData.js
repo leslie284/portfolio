@@ -2,7 +2,7 @@ let resumeData = {
   "imagebaseurl": "#",
   "name": "Leslie Katerina Dallapiccola",
   "role": "Sr.MERN & Front-End Dev ",
-  "linkedinId": "Your LinkedIn Id",
+  "gmailAddress": "lesliedallapiccola02@gmail.com",
   "skypeid": "live:.cid.24022fd53980731",
   "roleDescription": " I am a full time freelancer and I love my jobs. I always keep timeline and high quality code. I will be available for discussion whenever you want and you can ask whatever belong to my skill set.",
   "socialLinks": [
@@ -29,9 +29,9 @@ let resumeData = {
     {
       "UniversityName": "Universidad Nacional de La Plata",
       "specialization": "Bachelor of Computer Science",
-      "MonthOfPassing": "Aug",
-      "YearOfPassing": "2017",
-      "Achievements": "I have learned Basic web terminologies and some skills when it comes to Web."
+      "MonthOfPassing": "March 2011 - ",
+      "YearOfPassing": "Dec 2017",
+      "Achievements": "When it comes to Web, I have learned Basic web terminologies and some skills when I was in university."
     }
   ],
   "work": [
@@ -80,22 +80,22 @@ let resumeData = {
     {
       "name": "project1",
       "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
+      "imgurl": "../../public/images/portfolio/phone.jpg"
     },
     {
       "name": "project2",
       "description": "mobileapp",
-      "imgurl": "images/portfolio/project.jpg"
+      "imgurl": "../../public/images/portfolio/project.jpg"
     },
     {
       "name": "project3",
       "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png"
+      "imgurl": "../../public/images/portfolio/project2.png"
     },
     {
       "name": "project4",
       "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
+      "imgurl": "../../public/images/portfolio/phone.jpg"
     }
   ],
   "testimonials": [

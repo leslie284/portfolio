@@ -373,7 +373,7 @@ ul#nav li.current a {
 
 .bars li em {
    font: 15px "opensans-bold", sans-serif;
-   color: #313131;
+   color: #02030a;
    text-transform: uppercase;
    letter-spacing: 2px;
    font-weight: normal;
@@ -388,7 +388,7 @@ ul#nav li.current a {
 
    margin: 0;
    padding-right: 24px;
-   background: #313131;
+   background: #0f359b;
    display: inline-block;
    height: 42px;
    line-height: 42px;
@@ -399,60 +399,69 @@ ul#nav li.current a {
    width: 86%;
    -moz-animation: react 2s ease;
    -webkit-animation: react 2s ease;
+   animation: react 2s ease;
 }
 
 .bootstrap {
    width: 95%;
    -moz-animation: bootstrap 2s ease;
-   -webkit-animation: bootstrap 2s ease;
+   animation: bootstrap 2s ease;
 }
 
 .css {
    width: 90%;
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
+   animation: css 2s ease;
 }
 
 .html5 {
    width: 90%;
    -moz-animation: html5 2s ease;
    -webkit-animation: html5 2s ease;
+   animation: html5 2s ease;
 }
 
 .javascript {
    width: 88%;
    -moz-animation: javascript 2s ease;
    -webkit-animation: javascript 2s ease;
+   animation: javascript 2s ease;
 }
 
 .nodejs {
    width: 80%;
    -moz-animation: javascript 2s ease;
    -webkit-animation: javascript 2s ease;
+   animation: javascript 2s ease;
 }
 
 .mongodb {
-   width: 80%;
+   width: 78%;
    -moz-animation: mongodb 2s ease;
    -webkit-animation: mongodb 2s ease;
+   animation: mongodb 2s ease;
 }
 
 .express {
    width: 90%;
    -moz-animation: express 2s ease;
    -webkit-animation: express 2s ease;
+   animation: express 2s ease;
 }
 
 .laravel {
    width: 70%;
    -moz-animation: laravel 2s ease;
    -webkit-animation: laravel 2s ease;
+   animation: laravel 2s ease;
 }
 
 .codeigniter {
    width: 78%;
    -moz-animation: codeigniter 2s ease;
    -webkit-animation: codeigniter 2s ease;
+   animation: codeigniter 2s ease;
 }
 
 @-moz-keyframes react {
@@ -697,7 +706,7 @@ ul#nav li.current a {
 
 .portfolio-item .portfolio-item-meta {
    padding: 18px;
-   background: #1f1f1f url(../images/testimonials-bg.jpg);
+   background-image: url(../../public/images/portfolio/girl.jpg);
 }
 
 .portfolio-item .portfolio-item-meta h5 {
