@@ -6,11 +6,11 @@ let resumeData = {
   "skypeid": "live:.cid.24022fd53980731",
   "roleDescription": " I am a full time freelancer and I love my jobs. I always keep timeline and high quality code. I will be available for discussion whenever you want and you can ask whatever belong to my skill set.",
   "socialLinks": [
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com/in/leslie-67ba08121/",
-      "className": "fa fa-linkedin"
-    },
+    // {
+    //   "name": "linkedin",
+    //   "url": "https://www.linkedin.com/in/leslie-67ba08121/",
+    //   "className": "fa fa-linkedin"
+    // },
     {
       "name": "github",
       "url": "http://github.com/leslie284",
