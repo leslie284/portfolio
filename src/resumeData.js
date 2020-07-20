@@ -126,12 +126,28 @@ let resumeData = {
   ],
   "testimonials": [
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "Very nice working with this leslie. Very quick in job and provide you the best possible solution for your project.",
+      "name": "Rushil Shah"
     },
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "Clean Codes, Quick Responder, QC passed on 1st go. what else a client can ask for. Leslie, you are an awesome developer and will definitely come on board again.",
+      "name": "Shahid Raufi"
+    },
+    {
+      "description": "Leslie worked on a conversion from sketch to html project. She completed it successfully. I plan to work again with her in the future.",
+      "name": "Melih Tuzunoglu"
+    },
+    {
+      "description": "Leslie got her tasks done and was willing to put in extra time to make sure the job got done right. Good job.",
+      "name": "Steven Horvatin"
+    },
+    {
+      "description": "Leslie delivered a very high quality work on my php project and she provide more than I was looking for. The solutions she found to my problem was very wisely.. Her communication was top-notch, she met all deadlines, and her skills were very strong. I really enjoyed working with her and will have more and more additional jobs for her in the future. ",
+      "name": "Berkay Akalin"
+    },
+    {
+      "description": "Leslie did an excellent work with the App loading screen animation. It was spot on the very first time and I am very happy with the deliverable from Leslie. Hope to work again sometime in the future.",
+      "name": "Ajay Emmanuel"
     }
   ]
 }
